@@ -11,3 +11,5 @@ def argue (phrase)
 end
 
 def greeting(phrase, name)
+  phrase + name
+end
